@@ -1,27 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome Walter fans and soon to be fans
 
-You can use the [editor on GitHub](https://github.com/LiquidChicken007/Walterthedog/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links For walter
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Walters Twitter](https://twitter.com/PupperNelson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) ![walter website photo](https://user-images.githubusercontent.com/75923384/133860215-1c159b67-983e-43d6-ae82-c83f30885004.jpg)
 
